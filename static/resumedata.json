@@ -1,0 +1,108 @@
+{
+  "head": {
+    "name": "杨鑫行",
+    "intention": "web前端开发",
+    "tel": "13171856526",
+    "email": "13171856526@163.com",
+    "address": "河北省沙河市",
+    "age": "1997.10.15",
+    "sex": "男",
+    "school": "石家庄经济职业学院",
+    "graduation": "专科",
+    "graduationTime": "2017-06 至 2020-09",
+    "major": "计算机网络技术",
+    "interest": "求职岗位：Web前端工程师、期望月薪：面议、工作性质：全职 、期望工作地点：北京、工作状态：离职，可以随时到岗",
+    "speciality": "html、CSS、JavaScript、Vue、BootStrap",
+    "specialityPer": "60、60、40、50、50"
+
+  },
+  "blogLink": {
+    "github": "",
+    "blog": ""
+  },
+  "workExperience": {
+    "time": "2019.3-2020.2",
+    "experience": [{
+      "name": "尤秀网络科技有限公司",
+      "skill": "",
+      "time": "",
+      "describe": [
+        "负责PC端和移动端页面制作，实现产品的页面交互及功能的实现。"
+
+      ]
+    }]
+  },
+  "projectExperience": {
+    "time": "",
+    "experience": [{
+        "name": "花生日记（移动端app）",
+        "skill": "html、css、swiper框架",
+        "time": "四个月",
+        "describe": [
+          "主要负责商品展示、商品详情、商品购买这三个功能。",
+          "使用HTML+CSS+swiper+javascript+rem+vw搭建网页布局。",
+          "用CSS3动画实现了点击购买可以弹出商品购买信息，用原生JS实现商品购买数量。",
+          "用原生JS实现轮播功能的实现。",
+          "用jQuery实现了购物车删除商品功能，同时在此页面还可以实现商品购买的数量。",
+          "使用Ajax/json实现前后台交互。"
+        ]
+      },
+      {
+        "name": "宠物之家网站",
+        "skill": "原生JS返回底部、DIV+CSS页面布局、jQuery",
+        "time": "四个月",
+        "describe": [
+          "主要负责用户注册，首页的精选导读、最新领养信息、宠物信息等模块的布局和功能的实现。",
+          "使用HTML+css+javascript搭建网页布局。",
+          "使用Ajax/json实现前后台交互。",
+          "用jQuery实现轮播功能的实现，用原生JS进行返回顶部的功能。"
+        ]
+      }, {
+        "name": "花生日记官网",
+        "skill": "bootstrap+CSS3页面布局。",
+        "time": "一个月",
+        "describe": [
+          "主要负责首页，首页的新闻资讯、人才招聘、卧龙介绍等模块的布局。",
+          "使用css3动画 实现页面部分动画效果",
+          "使用bootstrap实现页面的响应式布局"
+        ]
+      }
+    ]
+  },
+  "skill": [
+    {
+      "type": "开发技能",
+      "describe": [
+        "熟悉DIV+CSS页面布局、重构,了解JavaScript，熟悉W3C标准，对HTML语义化有一定的了解，熟悉移动端flex布局，vw/vh等网页布局方式。",
+        "熟悉网站SEO常用优化技巧。",
+        "了解HTML5的高级属性，例如Canvas、音视频操作。",
+        "了解Sass和Less 可以使用基本指令进行开发。"
+      ]
+    },
+    {
+      "type": "框架",
+      "describe": [
+        "熟悉 jQuery,Bootstrap",
+        "熟练使用vue完成复杂交互的开发"
+      ]
+    },
+    {
+      "type": "开发工具",
+      "describe": [
+        "HBuilder",
+        "Visual Studio Code",
+        "webstorm"
+      ]
+    },{
+      "type": "构建工具",
+      "describe": [
+        "webpack"
+      ]
+    }
+  ],
+  "selfAssessment": [
+    "   鲁迅先生曾说过:世上本没有路,走的人多了便成了路",
+    "每错,点击左上角,欢迎 star "
+  ]
+
+}
